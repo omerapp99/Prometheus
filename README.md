@@ -114,7 +114,7 @@ Weather UI: http://localhost
 
 
 📂 Project Structure
-
+```
 ├── backend/          # Flask backend code
 ├── weather-ui/       # React frontend code
 ├── nginx/            # Nginx configuration
@@ -122,3 +122,4 @@ Weather UI: http://localhost
 ├── grafana/          # Persistent Grafana data
 ├── docker-compose.yml # Docker Compose file
 ├── README.md         # Project documentation
+```
